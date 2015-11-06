@@ -1,0 +1,13 @@
+#ifndef DUPLICATE_GLOBAL_H
+#define DUPLICATE_GLOBAL_H
+
+#include <QtGlobal>
+
+#if defined(DUPLICATE_LIBRARY)
+#  define DUPLICATESHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define DUPLICATESHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // DUPLICATE_GLOBAL_H
+

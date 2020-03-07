@@ -2,11 +2,11 @@
     \"Name\" : \"Duplicate\",
     \"Version\" : \"0.0.1\",
     \"CompatVersion\" : \"0.0.1\",
-    \"Vendor\" : \"HogPog\",
-    \"Copyright\" : \"(C) HogPog\",
+    \"Vendor\" : \"Alexandro Trevisan\",
+    \"Copyright\" : \"(C) Alexandro Trevisan\",
     \"License\" : \"MIT\",
     \"Description\" : \"Use Ctrl+D to duplicate lines or selection\",
-    \"Url\" : \"http://www.hogpog.com.br\",
+    \"Url\" : \"https://github.com/alextrevisan/Duplicate\",
     $$dependencyList
 }
 
